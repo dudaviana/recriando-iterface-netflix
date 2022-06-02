@@ -1,2 +1,2 @@
-# recriando-iterface-netflix
-Recriando a Interface da Netflix com alterações.
+# Recriando a Interface da Netflix com alterações.
+Desafio de Projeto sobre Interface Netflix.
